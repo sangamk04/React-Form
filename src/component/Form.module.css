@@ -1,0 +1,47 @@
+.form{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color:black;
+height: 700px;
+background-color: rgb(163, 119, 119);
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.grid{
+display: grid;
+grid-template-columns: 200px 200px;
+margin-bottom: 10px;
+margin-top: 30px;
+}
+.mini{
+color:black;
+font-size: 18px;
+font-weight: 10;
+}
+.sun{
+margin-left: 160px;
+}
+.ford{
+font-size: 25px;
+font-weight: 10;
+color: black;
+    
+}
+.sangam{
+margin-left: 150px;
+height: 35px;
+width: 140px;
+font-size: 20px;
+font-weight: bold;
+color: white;
+background-color:black;
+border-radius: 10px;
+}
